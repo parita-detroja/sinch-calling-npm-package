@@ -1,0 +1,43 @@
+{
+  "_from": "sinch-call",
+  "_id": "sinch-call@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-XEBDV13EnGl7YSXnYFiDjuFwbUhJ9peHbTCL8EJmP60EF/AmteuZnrEM4YimCnhrE8zgecDfbPJoBO1TILnqhw==",
+  "_location": "/sinch-call",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "sinch-call",
+    "name": "sinch-call",
+    "escapedName": "sinch-call",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sinch-call/-/sinch-call-1.0.3.tgz",
+  "_shasum": "4b5e9650bb38acde525ab6c29523d161d9c4ffe1",
+  "_spec": "sinch-call",
+  "_where": "/home/parita/ionic/gitlab_Chat/Sinch_Integration/Chat",
+  "author": {
+    "name": "parita detroja"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Plugins for Sinch Calling.",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "sinch-call",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.6.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {},
+  "typings": "index.d.ts",
+  "version": "1.0.3"
+}
